@@ -14,35 +14,44 @@ Demos
 We randomly selected 10 examples from the test set for demo display, and the random seed was set to 0. From left to right in the video, the ground truth, HiFiSLP generation results and Progressive Transformer generation results are shown respectively.
 
 TEXT: morgen vormittag bleibt von dem ganzen starken regen noch hier im osten einige gewitter hängen in brandenburg starker regen in vorpommern und an der ostsee . GLOSS: MORGEN VOR MITTAG REGEN OST REGION REGEN BRAND BURG REGEN VOR POMMERN OST ID: test/11May_2010_Tuesday_heute-5990
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/11May_2010_Tuesday_heute-5990.mp4' type='video/mp4'></videos></div>
+
+![](./demo/11May_2010_Tuesday_heute-5990.gif)
+
 TEXT: an den temperaturen ändert sich wenig . GLOSS: TEMPERATUR WIE-IMMER ID: test/28February_2011_Monday_tagesschau-4988
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/28February_2011_Monday_tagesschau-4988.mp4' type='video/mp4'></videos></div>
+
+![](./demo/28February_2011_Monday_tagesschau-4988.gif)
+
 TEXT: das ruhige trockene und zum teil recht freundliche hochdruckwetter begleitet uns auch in den nächsten tagen . GLOSS: RUHIG TROCKEN FREUNDLICH NAECHSTE BLEIBEN ID: test/07October_2010_Thursday_tagesschau-4129
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/07October_2010_Thursday_tagesschau-4129.mp4' type='video/mp4'></videos></div>
+
+![](./demo/07October_2010_Thursday_tagesschau-4129.gif)
+
 TEXT: richtung nordosten gibt es mehr wolken hier und da etwas regen . GLOSS: NORDOST MEHR WOLKE REGEN ID: test/26October_2009_Monday_tagesschau-1402
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/26October_2009_Monday_tagesschau-1402.mp4' type='video/mp4'></videos></div>
+
+![](./demo/26October_2009_Monday_tagesschau-1402.gif)
+
 TEXT: der tag beginnt ganz im osten noch freundlich später zeigt sich dann auch im nordwesten häufiger die sonne sonst überwiegen die wolken . GLOSS: OST REGION ANFANG FREUNDLICH SPAETER NORDWEST AUCH SONNE SONST REGION WOLKE ID: test/04August_2011_Thursday_tagesschau-712
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/04August_2011_Thursday_tagesschau-712.mp4' type='video/mp4'></videos></div>
+
+![](./demo/04August_2011_Thursday_tagesschau-712.gif)
+
 TEXT: dort morgen sommerlich heiße dreißig grad im emsland kühle sechzehn grad . GLOSS: MORGEN IX DREISSIG GRAD NORD REGION SECHSZEHN GRAD ID: test/25August_2010_Wednesday_tagesschau-8516
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/25August_2010_Wednesday_tagesschau-8516.mp4' type='video/mp4'></videos></div>
+
+![](./demo/25August_2010_Wednesday_tagesschau-8516.gif)
+
 TEXT: besonders im osten deutschlands kann es ein wenig regnen oder schneien . GLOSS: BESONDERS OST DEUTSCH LAND MEHR REGEN ODER SCHNEE ID: test/18February_2011_Friday_tagesschau-6825
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/18February_2011_Friday_tagesschau-6825.mp4' type='video/mp4'></videos></div>
+
+![](./demo/18February_2011_Friday_tagesschau-6825.gif)
+
 TEXT: im norden und im westen sowie in schauernähe stürmische böen . GLOSS: NORDWEST SCHAUER STURM KOMMEN ID: test/21November_2009_Saturday_tagesschau-4907
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/21November_2009_Saturday_tagesschau-4907.mp4' type='video/mp4'></videos></div>
+
+![](./demo/21November_2009_Saturday_tagesschau-4907.gif)
+
 TEXT: im bergland zum teil schnee an den alpen auch für längere zeit regen oder schnee . GLOSS: MEER SCHNEE SCHNEIEN DANN ALPEN REGEN SCHNEE SCHNEIEN ID: test/27November_2009_Friday_tagesschau-7341
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/27November_2009_Friday_tagesschau-7341.mp4' type='video/mp4'></videos></div>
+
+![](./demo/27November_2009_Friday_tagesschau-7341.gif)
+
 TEXT: vor allem im süden können die gewitter unwetterartig ausfallen . GLOSS: PLOETZLICH IX GEWITTER KOENNEN WIE UNWETTER ID: test/03June_2011_Friday_tagesschau-7644
-<div><video controls='' preload='none' poster='poster'>
-<source id='mp4' src='./demo/03June_2011_Friday_tagesschau-7644.mp4' type='video/mp4'></videos></div>
+
+![](./demo/03June_2011_Friday_tagesschau-7644.gif)
 
 
 
